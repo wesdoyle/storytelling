@@ -15,3 +15,6 @@ May we continue to share our stories with each other in order to better understa
 | [Oral Tradition in Software](https://www.youtube.com/watch?v=4PaWFYm0kEw) | From ‘Jingle Bells Batman Smells’ to ‘Real Programmers Write in FORTRAN,’ Bryan Cantrill (@bcantrill) dives into how we share our collective knowledge and how we pass wisdom to future generations. He advocates for writing software with future generations in mind. | Bryan Cantrill | 2016 | Monkoberfest |
 | [Software & Storytelling, One Nordic Childhood](https://www.youtube.com/watch?v=-AcT34zDGVw) | Software & Storytelling, One Nordic Childhood  | Linda Liukas |      2016 |  Slush |  
 | [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) |"When someone says a word like 'types,' they're really picking out an experience they had." | Evan Czaplicki |  2017 |  Deconstruct |
+| [Storytelling with Data ](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | Tableau | YouTube |
+| [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) | | Zach Tellman | 2017 | ClojuTRE 2017 | 
+ 
