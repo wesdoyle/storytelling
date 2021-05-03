@@ -20,7 +20,7 @@ May we continue to share our stories with each other in order to better understa
 | [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) |"When someone says a word like 'types,' they're really picking out an experience they had." | Evan Czaplicki |  2017 |  Deconstruct |
 | [Storytelling with Data ](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | Tableau | YouTube |
 | [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) | | Zach Tellman | 2017 | ClojuTRE 2017 |
-| [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo) | | Gary Benhardt | 2018 | 
+| [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo) | | Gary Benhardt | 2018 | Deconstruct |
  
 ## contributing
 
