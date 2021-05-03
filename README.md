@@ -9,6 +9,7 @@ This repository is an aggregation of links about storytelling as it relates to c
 
 May we continue to share our stories with each other in order to better understand the things we build.
 
+## links
 
 | Title                                                                     | Description                                                                                                                                                                                                                                                             | Author         | Year | Context           |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------|-------------------|
@@ -18,3 +19,6 @@ May we continue to share our stories with each other in order to better understa
 | [Storytelling with Data ](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | Tableau | YouTube |
 | [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) | | Zach Tellman | 2017 | ClojuTRE 2017 | 
  
+## contributing
+
+Do you know about a great talk or blog article that tells a story related to software development or relates the importance of storytelling in software development? Create a pull request with your link added to the table above.  Be sure to provide the speaker / author, a short description, and the context (blog name, conference, channel, meetup, etc.).  
