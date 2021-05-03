@@ -5,7 +5,9 @@
 
 > “If history were taught in the form of stories, it would never be forgotten.” ― Rudyard Kipling
 
-This repository is an aggregation of links about storytelling as it relates to computers.  Herein you will find record of many successes and failures. You will find stories about your fellow computer programmers in the throes of disaster. You may also discover tales of love, madness, and success.  Within this collection live heroes and anti-heroes, the machines they built, and the fates that befell them.  
+This repository aggregates stories about (and how the nature of storytelling relates to) computers.  
+
+Herein you will find record of many successes and failures. You will find stories about your fellow computer programmers in the throes of disaster. You may also discover tales of love, madness, and success.  Within this collection live tales of heroes and anti-heroes, the machines they built, and the fates that befell them. 
 
 May we continue to share our stories with each other in order to better understand the things we build.
 
@@ -17,7 +19,8 @@ May we continue to share our stories with each other in order to better understa
 | [Software & Storytelling, One Nordic Childhood](https://www.youtube.com/watch?v=-AcT34zDGVw) | Software & Storytelling, One Nordic Childhood  | Linda Liukas |      2016 |  Slush |  
 | [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) |"When someone says a word like 'types,' they're really picking out an experience they had." | Evan Czaplicki |  2017 |  Deconstruct |
 | [Storytelling with Data ](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | Tableau | YouTube |
-| [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) | | Zach Tellman | 2017 | ClojuTRE 2017 | 
+| [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) | | Zach Tellman | 2017 | ClojuTRE 2017 |
+| [Doug's Demo](https://www.deconstructconf.com/2018/gary-bernhardt-dougs-demo) | | Gary Benhardt | 2018 | 
  
 ## contributing
 
