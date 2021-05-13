@@ -11,8 +11,8 @@ May we continue to share our stories with each other in order to better understa
 
 ## Stories
 
-| Title | Description | Author | Year | Context |
-|-------|-------------|--------|------|---------|
+| Title | Description | Speaker | Year | Context |
+|-------|-------------|---------|------|---------|
 | [Oral Tradition in Software](https://www.youtube.com/watch?v=4PaWFYm0kEw) <img width=800/> | From ‘Jingle Bells Batman Smells’ to ‘Real Programmers Write in [FORTRAN](https://en.wikipedia.org/wiki/Fortran),’ Bryan Cantrill (@bcantrill) dives into how we share our collective knowledge and how we pass wisdom to future generations. He advocates for writing software with future generations in mind. | Bryan Cantrill | 2016 | Monkoberfest | 
 | [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) |"When someone says a word like 'types,' they're really picking out an experience they had." | Evan Czaplicki |  2017 |  [Deconstruct](https://www.deconstructconf.com/) |
 | [Storytelling with Data ](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | Tableau | YouTube |
