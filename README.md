@@ -26,4 +26,4 @@ May we continue to share our stories with each other in order to better understa
  
 ## Contributing
 
-Do you know about a great talk or blog article that tells a story related to software development or relates the importance of storytelling in software development? Create a pull request with your link added to the table above.
+Do you know about a great talk, book, or article that tells a story related to software development or relates the importance of storytelling in software development? Create a pull request with your link added to the table above.
