@@ -24,6 +24,7 @@ May we continue to share our stories with each other in order to better understa
 | [From UNIX to Linux, a time lapse of 45 years](https://www.youtube.com/watch?v=boahlBmc-NY) | Hendrik Jan Thomassen tells a story about the history of UNIX. "By the way, do you know where the `dd` command 'convert and copy' gets its name from? No? Well, according to good habits, it would have been called `cc`, but `cc` was already occupied here, so that's why they shifted the characters forward in the alphabet.  If you ever come to a UNIX trivia quiz, this will be a sure question." | Hendrik Jan Thomassen | 2016 | [T-DOSE](https://t-dose.org/)
 | [Storytelling with Data](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | YouTube |
 | [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) | Tells the story of an IT manager named Bill at a fictional organization called Parts Unlimited. Bill and his team learn and apply DevOps principles to resolve ongoing crises in IT and transform their organization. | Gene Kim, George Spafford, and Kevin Behr | 2013 | Book |
+| [Why I use emacs (and can I stop?)](https://github.com/dabeaz/blog/blob/main/2021/why-use-emacs.md) | David Beazley tells the story of why he started using emacs. | dabeaz | 2021 | Blog Post |
  
 ## Contributing
 
