@@ -25,7 +25,8 @@ May we continue to share our stories with each other in order to better understa
 | [Storytelling with Data](https://www.youtube.com/watch?v=IIMHicxQ0LY) | A good story changes our brain chemistry, increasing empathy, connectedness and attention. How can we tell great stories with data to educate, inspire and impact? | Multiple | 2015 | YouTube |
 | [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) | Tells the story of an IT manager named Bill at a fictional organization called Parts Unlimited. Bill and his team learn and apply DevOps principles to resolve ongoing crises in IT and transform their organization. | Gene Kim, George Spafford, and Kevin Behr | 2013 | Book |
 | [Why I use emacs (and can I stop?)](https://github.com/dabeaz/blog/blob/main/2021/why-use-emacs.md) | [David Beazley](https://en.wikipedia.org/wiki/David_M._Beazley) tells the story of why he started using emacs. | David Beazley | 2021 | Blog Post |
- 
+| [StaffEng - Stories](https://staffeng.com/stories/) | [Will Larson](https://lethain.com/) Will Larson's blog [StaffEng](https://staffeng.com/) and book [Staff Engineer](https://staffeng.com/book) provide an invaluable resource for "post-senior-level" software engineers and technical leaders. | Will Larson | 2021 | Blog, Book |
+
 ## Contributing
 
 Do you know about a great talk, book, or article that tells a story related to software development or relates the importance of storytelling in software development? Create a pull request with your link added to the table above.
