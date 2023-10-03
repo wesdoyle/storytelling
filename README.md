@@ -26,6 +26,7 @@ May we continue to share our stories with each other in order to better understa
 | [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) | Tells the story of an IT manager named Bill at a fictional organization called Parts Unlimited. Bill and his team learn and apply DevOps principles to resolve ongoing crises in IT and transform their organization. | Gene Kim, George Spafford, and Kevin Behr | 2013 | Book |
 | [Why I use emacs (and can I stop?)](https://github.com/dabeaz/blog/blob/main/2021/why-use-emacs.md) | [David Beazley](https://en.wikipedia.org/wiki/David_M._Beazley) tells the story of why he started using emacs. | David Beazley | 2021 | Blog Post |
 | [StaffEng - Stories](https://staffeng.com/stories/) | [Will Larson](https://lethain.com/) Will Larson's blog [StaffEng](https://staffeng.com/) and book [Staff Engineer](https://staffeng.com/book) provide an invaluable resource for "post-senior-level" software engineers and technical leaders. | Will Larson | 2021 | Blog, Book |
+| [ Ken Thompson interviewed by Brian Kernighan at VCF East 2019 ](https://www.youtube.com/watch?v=EY6q5dv_B-o) | In this video, [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) holds a very interesting conversation with [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson). | Ken Thompson | 2019 | YouTube |
 
 ## Contributing
 
